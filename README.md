@@ -8,7 +8,7 @@
 
 **Objetivos Específicos:**
 
-•Emplear los temas los distintos temas vistos en clase para poder realizar su desarrollo y explicación del ejercicio una vez ya armado en el programa online utilizado 
+•Emplear los distintos temas vistos en clase para poder realizar su desarrollo y explicación del ejercicio una vez ya armado en el programa online utilizado 
 “Tinkercad”.
 
 •Con ayuda del vídeo realizado se tomará en cuenta las explicaciones del desarrollo de cada uno de los ejercicios ,distribuyendo su implementación para el examen.
