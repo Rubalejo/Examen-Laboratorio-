@@ -37,10 +37,33 @@ Realizar y comprobar el funcionamiento del circuito propuesto en el examen del l
 
 ![image](https://user-images.githubusercontent.com/105680588/184788077-f9186417-8b71-4d11-b509-a2ca899f0c0e.png)
 
+![image](https://user-images.githubusercontent.com/105680588/184790951-51fb164c-9677-4c20-952b-d1c828f46a07.png)
 
+![image](https://user-images.githubusercontent.com/105680588/184791002-746233c1-cd8a-4dac-9114-40e330668c92.png)
 
+![image](https://user-images.githubusercontent.com/105680588/184791061-e9957af0-a88d-40f7-98df-a5e2a1d652af.png)
 
+![image](https://user-images.githubusercontent.com/105680588/184791114-f82bd095-acea-4091-80c3-23bdc165718f.png)
 
+**Circuito Completo**
+
+![image](https://user-images.githubusercontent.com/105680588/184791226-6993edee-8698-41a7-a67d-9db79557025e.png)
+
+**EJERCICIO 3:**
+
+![image](https://user-images.githubusercontent.com/105680588/184791449-7b9ce415-0989-41a2-9806-13882150297d.png)
+
+![image](https://user-images.githubusercontent.com/105680588/184794612-a953dcb2-2194-4df3-9974-e305ba36bec9.png)
+
+![image](https://user-images.githubusercontent.com/105680588/184794652-deb51927-d6b3-476d-a6c6-e8b9aeadd0b5.png)
+
+![image](https://user-images.githubusercontent.com/105680588/184794711-0f38ed6c-30c6-46e6-989e-aac7072a00a0.png)
+
+![image](https://user-images.githubusercontent.com/105680588/184794746-3226a636-cb65-494d-93e2-b4a1b026f75f.png)
+
+**Circuito Completo:**
+
+![image](https://user-images.githubusercontent.com/105680588/184795290-fb9d0752-60eb-4ddb-ac50-192e41bb3aae.png)
 
 
 **Video:**
