@@ -8,14 +8,14 @@
 
 **Objetivos Específicos:**
 
-*Emplear los temas los distintos temas vistos en clase para poder realizar su desarrollo y explicación del ejercicio una vez ya armado en el programa online utilizado 
+•Emplear los temas los distintos temas vistos en clase para poder realizar su desarrollo y explicación del ejercicio una vez ya armado en el programa online utilizado 
 “Tinkercad”.
 
-*Con ayuda del video realizado explicar el desarrollo de cada uno de los ejercicios mediante la presentación del video se explique el funcionamiento y la implementación de los ejercicios del examen.
+•Con ayuda del vídeo realizado se tomará en cuenta las explicaciones del desarrollo de cada uno de los ejercicios ,distribuyendo su implementación para el examen.
 
 **Objetivos Generales:**
 
-Realizar y comprobar el funcionamiento del circuito propuesto en el examen del laboratorio de segundo parcial con los conocimientos vistos previamente en clase poder realizar las siguientes simulaciones.
+•Comprobar el funcionamiento del circuito propuesto en el examen del laboratorio de segundo parcial con los conocimientos vistos previamente en clase para asi poder realizar las siguientes simulaciones.
 
 **Explicación Y Resolución de Ejercicios o Problemas:**
 
@@ -71,7 +71,7 @@ Realizar y comprobar el funcionamiento del circuito propuesto en el examen del l
 **Conclusiones:**
 
 •	Con la ayuda del programa de Tinkercad comensaremos a hacer la simulación de los 3 ejercicios propuestos en el examen de laboratorio del Segundo Parcial de los temas teorema de thevenin, superposición y Máxima transferencia de potencia.  
-•	En el video hecho por mi persona explico la construcción del circuito y los componentes que se requerirán para elaborar el circuito y se procederá a hacer las respectivas mediciones para comprobar los temas propuestos en diferente enunciado de los ejercicios.
+•	En el video explicativo de mi autoría se demuestra la construcción del circuito y los componentes que se requerirán para elaborar el circuito y se procederá a hacer las respectivas mediciones para comprobar los temas propuestos en diferente enunciado de los ejercicios.
 **Bibliografía:**
 
 Tinkercad | From mind to design in minutes. (2022). Tinkercad. https://www.tinkercad.com/dashboard
