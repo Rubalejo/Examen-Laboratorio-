@@ -68,10 +68,13 @@
 
 **Video:**
 
+https://www.youtube.com/watch?v=HevQNggjId0&ab_channel=RubenBustos
+
 **Conclusiones:**
 
 •	Con la ayuda del programa de Tinkercad comensaremos a hacer la simulación de los 3 ejercicios propuestos en el examen de laboratorio del Segundo Parcial de los temas teorema de thevenin, superposición y Máxima transferencia de potencia.  
 •	En el video explicativo de mi autoría se demuestra la construcción del circuito y los componentes que se requerirán para elaborar el circuito y se procederá a hacer las respectivas mediciones para comprobar los temas propuestos en diferente enunciado de los ejercicios.
+
 **Bibliografía:**
 
 Tinkercad | From mind to design in minutes. (2022). Tinkercad. https://www.tinkercad.com/dashboard
